@@ -1,0 +1,28 @@
+# The properties file for Target Tabs
+
+# The URL of the site.
+host=http://targetcms.com
+
+# The URL of the MySQL server
+sqlhost=mysql.targetcms.com
+
+# The name of the database user
+sqluser=graham
+
+# The database password
+sqlpassword=gremlin
+
+# The database to use
+sqldatabase=targetapps
+
+# The table prefix
+prefix=tabs_
+
+# Session prefix
+session=targettabs
+
+# Default template
+template=tab
+
+# Additional sections
+sections=Tab
